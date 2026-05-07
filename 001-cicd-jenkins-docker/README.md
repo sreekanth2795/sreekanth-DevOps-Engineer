@@ -438,11 +438,4 @@ Expected output:
 
 ---
 
-## 7. Video Transcript
 
-NA
----
-
-## 8. Resume Bullet Point
-
-> Implemented a production-style Jenkins CI/CD pipeline for a Dockerized Python API, automating test / build / deploy / smoke-test stages and reducing manual release effort by over 80% while improving deployment consistency through immutable image tagging and CSRF-protected API automation.
