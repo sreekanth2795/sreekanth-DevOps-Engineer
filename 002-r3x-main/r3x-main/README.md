@@ -359,6 +359,4 @@ npm run tauri dev
 
 ---
 
-## License
-
-[MIT](LICENSE) - Made by [Rebash](https://rebash.in)
+Made by [Sreekanth]
