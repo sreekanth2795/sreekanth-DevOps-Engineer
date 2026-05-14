@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://rebash.in">rebash.in</a> &middot;
   <a href="#installation">Installation</a> &middot;
   <a href="#features">Features</a> &middot;
   <a href="#keyboard-shortcuts">Keyboard Shortcuts</a> &middot;
