@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rebash.in">rebash.in</a> &middot;
+ 
   <a href="#installation">Installation</a> &middot;
   <a href="#features">Features</a> &middot;
   <a href="#keyboard-shortcuts">Keyboard Shortcuts</a> &middot;
@@ -166,9 +166,7 @@ open src-tauri/target/release/bundle/macos/r3x.app
 
 ### Windows
 
-Download the latest `.msi` or `.exe` installer from [Releases](https://github.com/rebash-rebash/r3x/releases).
 
-Or build from source:
 
 ```bash
 git clone https://github.com/rebash-rebash/r3x.git
