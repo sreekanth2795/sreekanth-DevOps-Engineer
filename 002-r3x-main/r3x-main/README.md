@@ -343,11 +343,6 @@ r3x/
 | Terminal | [xterm.js](https://xtermjs.org/) |
 | Bundler | [Vite](https://vitejs.dev/) |
 
----
-
-## Contributing
-
-Contributions are welcome! Please open an issue first to discuss what you'd like to change.
 
 ```bash
 # Fork & clone
