@@ -1,4 +1,4 @@
-# Software Engineer Portfolio Project Repository
+# Software Engineer and Data science Portfolio Project Repository
 
 This Repository will hold all of the code and queries from the Portfolio Projects we create.
 
