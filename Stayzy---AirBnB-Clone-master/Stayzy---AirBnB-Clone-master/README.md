@@ -126,6 +126,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## 🌐 Contact
 
-* GitHub: [amansachann](https://github.com/amansachann)
-* Email: [codewithaman78@gmail.com](mailto:codewithaman78@gmail.com)
+* GitHub: sreekanth penumala
+* Email: penumala sreekanth
 
